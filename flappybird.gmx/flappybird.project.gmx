@@ -12,9 +12,16 @@
     <sprite>sprites\sPipespawner</sprite>
     <sprite>sprites\sPipespawner1</sprite>
     <sprite>sprites\sGoal</sprite>
+    <sprite>sprites\sPipe1</sprite>
+    <sprite>sprites\sScore</sprite>
   </sprites>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\background0</background>
+  </backgrounds>
   <paths name="paths"/>
+  <fonts name="fonts">
+    <font>fonts\font0</font>
+  </fonts>
   <objects name="objects">
     <object>objects\oFlappy</object>
     <object>objects\oPipebottom</object>
@@ -22,6 +29,9 @@
     <object>objects\oPipespawner</object>
     <object>objects\oPipespawner1</object>
     <object>objects\oGoal</object>
+    <object>objects\oPipe</object>
+    <object>objects\oPipeSpawner2</object>
+    <object>objects\oScore</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
