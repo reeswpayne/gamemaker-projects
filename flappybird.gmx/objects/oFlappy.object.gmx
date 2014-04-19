@@ -11,25 +11,25 @@
     <event eventtype="0" enumb="0">
       <action>
         <libid>1</libid>
-        <id>101</id>
+        <id>107</id>
         <kind>0</kind>
         <userelative>-1</userelative>
         <isquestion>0</isquestion>
         <useapplyto>-1</useapplyto>
         <exetype>1</exetype>
-        <functionname>action_move</functionname>
+        <functionname>action_set_gravity</functionname>
         <codestring></codestring>
         <whoName>self</whoName>
         <relative>0</relative>
         <isnot>0</isnot>
         <arguments>
           <argument>
-            <kind>1</kind>
-            <string>010000000</string>
+            <kind>0</kind>
+            <string>270</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>5</string>
+            <string>1</string>
           </argument>
         </arguments>
       </action>
@@ -82,30 +82,20 @@
         <isnot>0</isnot>
       </action>
     </event>
-    <event eventtype="9" enumb="40">
+    <event eventtype="9" enumb="112">
       <action>
         <libid>1</libid>
-        <id>101</id>
+        <id>331</id>
         <kind>0</kind>
-        <userelative>-1</userelative>
+        <userelative>0</userelative>
         <isquestion>0</isquestion>
-        <useapplyto>-1</useapplyto>
+        <useapplyto>0</useapplyto>
         <exetype>1</exetype>
-        <functionname>action_move</functionname>
+        <functionname>action_restart_game</functionname>
         <codestring></codestring>
         <whoName>self</whoName>
         <relative>0</relative>
         <isnot>0</isnot>
-        <arguments>
-          <argument>
-            <kind>1</kind>
-            <string>010000000</string>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>5</string>
-          </argument>
-        </arguments>
       </action>
     </event>
     <event eventtype="9" enumb="38">

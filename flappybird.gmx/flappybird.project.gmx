@@ -11,6 +11,7 @@
     <sprite>sprites\sPipetop</sprite>
     <sprite>sprites\sPipespawner</sprite>
     <sprite>sprites\sPipespawner1</sprite>
+    <sprite>sprites\sGoal</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -20,6 +21,7 @@
     <object>objects\oPipetop</object>
     <object>objects\oPipespawner</object>
     <object>objects\oPipespawner1</object>
+    <object>objects\oGoal</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
