@@ -14,6 +14,7 @@
     <sprite>sprites\sGoal</sprite>
     <sprite>sprites\sPipe1</sprite>
     <sprite>sprites\sScore</sprite>
+    <sprite>sprites\sEgg</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -34,6 +35,7 @@
     <object>objects\oPipe</object>
     <object>objects\oPipeSpawner2</object>
     <object>objects\oScore</object>
+    <object>objects\oEgg</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
