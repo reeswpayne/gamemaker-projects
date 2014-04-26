@@ -18,7 +18,9 @@
   <backgrounds name="background">
     <background>background\background0</background>
   </backgrounds>
-  <paths name="paths"/>
+  <paths name="paths">
+    <path>paths\path0</path>
+  </paths>
   <fonts name="fonts">
     <font>fonts\font0</font>
   </fonts>
