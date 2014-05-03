@@ -7,14 +7,10 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\sFlappy</sprite>
-    <sprite>sprites\sPipebottom</sprite>
-    <sprite>sprites\sPipetop</sprite>
-    <sprite>sprites\sPipespawner</sprite>
-    <sprite>sprites\sPipespawner1</sprite>
-    <sprite>sprites\sGoal</sprite>
     <sprite>sprites\sPipe1</sprite>
     <sprite>sprites\sScore</sprite>
-    <sprite>sprites\sEgg</sprite>
+    <sprite>sprites\sEasy</sprite>
+    <sprite>sprites\sMedium</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -27,18 +23,15 @@
   </fonts>
   <objects name="objects">
     <object>objects\oFlappy</object>
-    <object>objects\oPipebottom</object>
-    <object>objects\oPipetop</object>
-    <object>objects\oPipespawner</object>
-    <object>objects\oPipespawner1</object>
-    <object>objects\oGoal</object>
     <object>objects\oPipe</object>
     <object>objects\oPipeSpawner2</object>
     <object>objects\oScore</object>
-    <object>objects\oEgg</object>
+    <object>objects\oAutoFlappy</object>
+    <object>objects\oEasy</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\room0</room>
+    <room>rooms\start</room>
+    <room>rooms\game</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
