@@ -11,6 +11,9 @@
     <sprite>sprites\sScore</sprite>
     <sprite>sprites\sEasy</sprite>
     <sprite>sprites\sMedium</sprite>
+    <sprite>sprites\sHard</sprite>
+    <sprite>sprites\sInsane</sprite>
+    <sprite>sprites\sCleaner</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -23,16 +26,28 @@
   </fonts>
   <objects name="objects">
     <object>objects\oFlappy</object>
-    <object>objects\oPipe</object>
-    <object>objects\oPipeSpawner2</object>
+    <object>objects\oPipeE</object>
+    <object>objects\oPipeM</object>
+    <object>objects\oPipeH</object>
+    <object>objects\oPipeI</object>
+    <object>objects\oPipeSpawnerE</object>
     <object>objects\oScore</object>
     <object>objects\oAutoFlappy</object>
     <object>objects\oEasy</object>
     <object>objects\oMedium</object>
+    <object>objects\oHard</object>
+    <object>objects\oInsane</object>
+    <object>objects\oPipeSpawnerM</object>
+    <object>objects\oPipeSpawnerH</object>
+    <object>objects\oPipeSpawnerI</object>
+    <object>objects\oCleaner</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\start</room>
-    <room>rooms\game</room>
+    <room>rooms\easy</room>
+    <room>rooms\medium</room>
+    <room>rooms\hard</room>
+    <room>rooms\insane</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
