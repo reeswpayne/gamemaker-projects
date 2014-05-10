@@ -28,6 +28,7 @@
     <object>objects\oScore</object>
     <object>objects\oAutoFlappy</object>
     <object>objects\oEasy</object>
+    <object>objects\oMedium</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\start</room>
