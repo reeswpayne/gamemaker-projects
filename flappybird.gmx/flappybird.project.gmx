@@ -4,7 +4,9 @@
     <Config>Configs\Default</Config>
   </Configs>
   <NewExtensions/>
-  <sounds name="sound"/>
+  <sounds name="sound">
+    <sound>sound\sound0</sound>
+  </sounds>
   <sprites name="sprites">
     <sprite>sprites\sFlappy</sprite>
     <sprite>sprites\sPipe1</sprite>
@@ -15,6 +17,7 @@
     <sprite>sprites\sInsane</sprite>
     <sprite>sprites\sCleaner</sprite>
     <sprite>sprites\sText1</sprite>
+    <sprite>sprites\sText2</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -44,6 +47,7 @@
     <object>objects\oCleaner</object>
     <object>objects\oText1</object>
     <object>objects\oCon</object>
+    <object>objects\oText2</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\start</room>
