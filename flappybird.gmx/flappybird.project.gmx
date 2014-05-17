@@ -14,6 +14,7 @@
     <sprite>sprites\sHard</sprite>
     <sprite>sprites\sInsane</sprite>
     <sprite>sprites\sCleaner</sprite>
+    <sprite>sprites\sText1</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -41,6 +42,8 @@
     <object>objects\oPipeSpawnerH</object>
     <object>objects\oPipeSpawnerI</object>
     <object>objects\oCleaner</object>
+    <object>objects\oText1</object>
+    <object>objects\oCon</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\start</room>

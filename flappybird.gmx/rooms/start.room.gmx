@@ -55,6 +55,8 @@
     <instance objName="oMedium" x="224" y="480" name="inst_31F631DF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oHard" x="448" y="480" name="inst_2F0BE820" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oInsane" x="192" y="608" name="inst_FF2EDA89" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oText1" x="160" y="32" name="inst_0A99CD2A" locked="0" code="" scaleX="2.97000002861023" scaleY="2.73972606658936" colour="4294967295" rotation="0"/>
+    <instance objName="oCon" x="0" y="0" name="inst_C99435BD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
