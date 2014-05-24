@@ -9,6 +9,7 @@
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\sFlappy</sprite>
+    <sprite>sprites\sIcon</sprite>
     <sprite>sprites\sPipe1</sprite>
     <sprite>sprites\sScore</sprite>
     <sprite>sprites\sEasy</sprite>
