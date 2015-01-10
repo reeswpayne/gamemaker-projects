@@ -6,18 +6,14 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
-    <sprite>sprites\spr_flappy</sprite>
-    <sprite>sprites\spr_pipes</sprite>
+    <sprite>sprites\spr_button</sprite>
+    <sprite>sprites\spr_button1</sprite>
   </sprites>
-  <backgrounds name="background">
-    <background>background\bg_clouds</background>
-  </backgrounds>
+  <backgrounds name="background"/>
   <paths name="paths"/>
-  <scripts name="scripts">
-    <script>scripts\script0.gml</script>
-  </scripts>
   <objects name="objects">
-    <object>objects\obj_flappy</object>
+    <object>objects\obj_button</object>
+    <object>objects\obj_button1</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_main</room>
